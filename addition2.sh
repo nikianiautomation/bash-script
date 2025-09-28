@@ -1,3 +1,3 @@
 #!/bin/bash
-sum=$1+$2
+sum="$1+$2"
 echo "sum is $sum"
