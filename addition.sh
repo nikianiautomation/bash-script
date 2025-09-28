@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "5"
+echo "enter first number:"
 read a
-echo "5"
+echo "enter second number:"
 read b
 sum=$((a+b))
 echo "sum is $sum"
