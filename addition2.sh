@@ -1,3 +1,5 @@
 #!/bin/bash
-sum="$1+$2"
+a="$1"
+b="$2"
+sum=$((a+b))
 echo "sum is $sum"
